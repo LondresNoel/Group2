@@ -18,11 +18,9 @@ git branch sample1
     - shortcut
 ```bash
 git checkout -b sample1
-```
-    - checking the current branch
+```  
+3. Switching between branches
+     - checking the current branch
 ```bash
 git branch
 ```
-3. 
-
-
