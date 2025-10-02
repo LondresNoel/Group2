@@ -36,3 +36,8 @@ git add .
 ```bash
 git commit -m "update Sample1"
 ```
+
+7. Merge
+```bash
+git merge feature-branch
+```
